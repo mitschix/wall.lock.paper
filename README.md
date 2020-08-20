@@ -22,10 +22,10 @@ exec --no-startup-id systemd-run --on-calendar="*:0/5" --user -- /usr/bin/feh --
 ```
 The path to the wallpaper folder is set with:
 ```
-set $wallpaper\_folder "path/to/wallpaper"
+set $wallpaper_folder "path/to/wallpaper"
 ```
 
-For the lockscreen I use the tool [Betterlockscreen]{https://github.com/pavanjadhaw/betterlockscreen}. With this tool it is possible to choose a random picture from a folder und to display it in different kinds like dimmed, black and white or blurred.
+For the lockscreen I use the tool [Betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen). With this tool it is possible to choose a random picture from a folder und to display it in different kinds like dimmed, black and white or blurred.
 To use it as lockscreen and prepare a new picture after every lock the following command is used as i3lock:
 ```
 set $i3lock betterlockscreen -l dim && betterlockscreen -u /path/to/lockscreens
