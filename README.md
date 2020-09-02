@@ -9,6 +9,8 @@ The majority of these wallpapers are nature and landscape photos. The lockscreen
 ### Wallpaper/Lockscreen sources:
 + mostly [DitroTube's Wallpaper](https://gitlab.com/dwt1/wallpapers)
 + [Salient OS](https://salientos.github.io/)
++ some [Ubuntu OS](https://salientos.github.io/)
++ [Pop\! OS](https://pop.system76.com/)
 + Google pictures search results
 
 ##  i3 Tipps and Tricks
