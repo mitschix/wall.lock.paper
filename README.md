@@ -15,6 +15,7 @@ The majority of these wallpapers are nature and landscape photos. The lockscreen
 + some [Ubuntu OS](https://salientos.github.io/)
 + [Pop\! OS](https://pop.system76.com/)
 + Google pictures search results
++ [metafates Wallpapers](https://github.com/metafates/Wallpapers)
 
 ##  i3 Tipps and Tricks
 Since I use i3 there are some tricks I use to randomize the wallpapers and lockscreens to enjoy them as much as possible.
